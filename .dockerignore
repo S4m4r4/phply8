@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.egg-info/
+MISC/
+.pytest_cache/
+.ruff_cache/
+*.tar.gz
+.git/
